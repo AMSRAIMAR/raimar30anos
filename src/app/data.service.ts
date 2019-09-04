@@ -104,6 +104,7 @@ export class DataService {
     let reg = localStorage.getItem('registros');
     if (!reg) {
       this.salvarLocal();
+      reg = localStorage.getItem('registros');
     }
     return JSON.parse(reg)
   }
