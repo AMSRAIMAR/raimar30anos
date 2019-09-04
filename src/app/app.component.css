@@ -1,3 +1,35 @@
 p {
   font-family: Lato;
 }
+
+h1 {
+  font-size: 3em
+}
+
+.eqp1 {
+    border-left: 13px solid #FF9800;
+    padding-left: 5px;
+    border-bottom: 2px solid #FF9800;
+}
+
+.eqp2{
+    border-left: 13px solid #FFEB3B;
+    padding-left: 5px;
+    border-bottom: 2px solid #FFEB3B;
+}
+
+.eqp3{
+    border-left: 13px solid #03A9F4;
+    padding-left: 5px;
+    border-bottom: 2px solid #03A9F4;
+}
+
+.eqp4{
+    border-left: 13px solid #4CAF50;
+    padding-left: 5px;
+    border-bottom: 2px solid #4CAF50;
+}
+
+.centerstar{
+      text-align: center;
+}
